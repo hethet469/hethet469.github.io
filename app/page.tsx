@@ -29,16 +29,7 @@ export default function Page() {
   return (
     <main className="min-h-screen bg-slate-50 flex flex-col items-center justify-center p-4">
       <div className="w-full max-w-sm bg-white rounded-xl shadow-lg p-6 border border-slate-200">
-      <script>
-  atOptions = {
-    'key' : 'a98eb7a7cba04cbae66b193d6fd8fb47',
-    'format' : 'iframe',
-    'height' : 50,
-    'width' : 320,
-    'params' : {}
-  };
-</script>
-<script src="https://www.highrevenueformat.com/a98eb7a7cba04cbae66b193d6fd8fb47/invoke.js"></script>
+      
         <img src="https://i.postimg.cc/vT3WY9ZC/512-x-512-px.png" alt="Business Calculator Logo" className="size-8 object-contain" />
  <h1 className="text-xl font-bold text-center mb-4 text-slate-800">Business Calculator</h1>
         <div className="w-full h-16 bg-slate-100 rounded-lg mb-4 flex items-center justify-end px-4 text-2xl font-mono text-slate-800 overflow-x-auto border border-slate-300">
